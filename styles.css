@@ -18,8 +18,10 @@ h1 {
     color: #333;
 }
 
-.image {
+/* Styles for responsive image */
+img {
     max-width: 100%;
     height: auto;
-    margin-top: 20px;
+    display: block;
+    margin: 20px auto; /* Center the image with margin */
 }
