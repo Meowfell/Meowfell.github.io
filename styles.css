@@ -23,5 +23,5 @@ img {
     max-width: 100%;
     height: auto;
     display: block;
-    margin: 20px auto; /* Center the image with margin */
+    margin: 1em auto; /* Center the image with margin relative to text size */
 }
